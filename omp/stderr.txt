@@ -1,0 +1,8 @@
+01:54:03 (11131): Can't open init data file - running in standalone mode
+01:54:03 (11131): called boinc_finish(0)
+01:54:48 (11168): Can't open init data file - running in standalone mode
+01:54:48 (11168): called boinc_finish(0)
+01:55:25 (11203): Can't open init data file - running in standalone mode
+01:55:27 (11203): called boinc_finish(0)
+01:55:56 (11247): Can't open init data file - running in standalone mode
+01:58:01 (11247): called boinc_finish(0)

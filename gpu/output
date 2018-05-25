@@ -1,0 +1,24 @@
+Time elapsed on prime finding of range from 0 to 1000000 = 1.547616 ms
+
+Time elapsed on prime finding of range from 1000000 to 2000000 = 1.536928 ms
+
+Time elapsed on prime finding of range from 2000000 to 3000000 = 1.550880 ms
+
+Time elapsed on prime finding of range from 3000000 to 4000000 = 1.562560 ms
+
+Time elapsed on prime finding of range from 4000000 to 5000000 = 1.549152 ms
+
+Time elapsed on prime finding of range from 5000000 to 6000000 = 1.743744 ms
+
+Time elapsed on prime finding of range from 6000000 to 7000000 = 1.609312 ms
+
+Time elapsed on prime finding of range from 7000000 to 8000000 = 1.542560 ms
+
+Time elapsed on prime finding of range from 8000000 to 9000000 = 1.580320 ms
+
+Time elapsed on prime finding of range from 9000000 to 10000000 = 1.587456 ms
+
+
+
+Time elapsed on prime finding of range from 0 to 10000000 = 14.295872 ms
+
