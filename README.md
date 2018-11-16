@@ -1,2 +1,2 @@
 # Simple BOINC app
-# For building run command make
+For building run command make
