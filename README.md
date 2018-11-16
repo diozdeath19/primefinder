@@ -1,2 +1,2 @@
-# Simple BOINC app
-For building run command make
+# Primefinder
+Simple BOINC App for finding prime numbers. For building run command make
